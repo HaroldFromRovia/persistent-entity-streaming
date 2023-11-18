@@ -8,11 +8,12 @@ target/
 .idea/jarRepositories.xml
 .idea/compiler.xml
 .idea/libraries/
+.idea
 *.iws
 *.iml
 *.ipr
 
-### Eclipse ###
+### Eclipse ###K
 .apt_generated
 .classpath
 .factorypath
