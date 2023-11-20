@@ -11,6 +11,8 @@
     <modules>
         <module>core</module>
         <module>vertx</module>
+        <module>load-testing</module>
+        <module>emulation</module>
     </modules>
 
     <properties>
